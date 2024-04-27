@@ -1,2 +1,2 @@
 # Redes-5G
-Trabalho Teórico da Matéria "Redes de Computadores I - EEL878" da UFRJ.
+Trabalho Teórico do GRUPO 2 para a Matéria "Redes de Computadores I - EEL878" da UFRJ.
