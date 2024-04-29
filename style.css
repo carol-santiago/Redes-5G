@@ -18,6 +18,12 @@ ul {
   flex-direction: row;
   justify-content: space-around;
 }
+.indice {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0;
+  list-style: upper-roman;
+}
 main {
   margin-top: 60px; /* ajuste para a altura do cabeçalho */
   padding: 20px;
@@ -46,7 +52,9 @@ footer {
   bottom: 0;
   width: 100%;
 }
-a, a:active, a:visited {
+a,
+a:active,
+a:visited {
   text-decoration: none;
-  color: white
+  color: white;
 }
